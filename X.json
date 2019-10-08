@@ -1,0 +1,1655 @@
+{
+    "data": [
+        {
+            "slug": "割れ目",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "割れ目",
+                    "reading": "われめ"
+                },
+                {
+                    "word": "破れ目",
+                    "reading": "われめ"
+                },
+                {
+                    "word": "割目",
+                    "reading": "われめ"
+                },
+                {
+                    "word": "破目",
+                    "reading": "われめ"
+                },
+                {
+                    "reading": "ワレメ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "chasm",
+                        "interstice",
+                        "crevice",
+                        "crack",
+                        "cleft",
+                        "split",
+                        "rift",
+                        "fissure"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [
+                        "われめ"
+                    ],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "vulva",
+                        "slit",
+                        "cunt",
+                        "vagina",
+                        "twat"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "ハーモニカ",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ハーモニカ"
+                },
+                {
+                    "reading": "ハモニカ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "harmonica",
+                        "mouth organ"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "cunnilingus"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "hypodermic syringe"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Harmonica"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Harmonica” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Harmonica?oldid=492253981"
+                        },
+                        {
+                            "text": "Read “ハーモニカ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ハーモニカ?oldid=41945699"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Harmonica"
+            }
+        },
+        {
+            "slug": "消え失せる",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "消え失せる",
+                    "reading": "きえうせる"
+                },
+                {
+                    "word": "消えうせる",
+                    "reading": "きえうせる"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to disappear",
+                        "to vanish"
+                    ],
+                    "parts_of_speech": [
+                        "Ichidan verb",
+                        "intransitive verb"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to die"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Archaism"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "尺八",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "尺八",
+                    "reading": "しゃくはち"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "shakuhachi",
+                        "end-blown fippleless bamboo flute"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "blow job",
+                        "fellatio"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Shakuhachi"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Shakuhachi” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Shakuhachi?oldid=487603971"
+                        },
+                        {
+                            "text": "Read “尺八” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/尺八?oldid=42221094"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Shakuhachi"
+            }
+        },
+        {
+            "slug": "乱交パーティー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "乱交パーティー",
+                    "reading": "らんこうパーティー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "sexual orgy"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "マンコ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "マンコ"
+                },
+                {
+                    "reading": "まんこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vagina",
+                        "cunt",
+                        "pussy"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "fucking",
+                        "screwing"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Manko"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Manko” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Manko?oldid=477205825"
+                        },
+                        {
+                            "text": "Read “マンコ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/マンコ?oldid=35094068"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Manko"
+            }
+        },
+        {
+            "slug": "ファック",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ファック"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fuck"
+                    ],
+                    "parts_of_speech": [
+                        "Noun",
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Colloquialism"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Fuck"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Fuck” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Fuck?oldid=494950698"
+                        },
+                        {
+                            "text": "Read “ファック” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ファック?oldid=42558109"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Fuck"
+            }
+        },
+        {
+            "slug": "シックスナイン",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "シックスナイン"
+                },
+                {
+                    "reading": "シックス・ナイン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "99.9999%"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Wasei, word made in Japan"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "English",
+                            "word": "“six nine”"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "sixty-nine",
+                        "soixante-neuf",
+                        "69"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Colloquialism",
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "シックスティーナイン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "69 (sex position)"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “69 (sex position)” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/69_(sex_position)?oldid=494519129"
+                        },
+                        {
+                            "text": "Read “シックスナイン” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/シックスナイン?oldid=42104938"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/69_(sex_position)"
+            }
+        },
+        {
+            "slug": "まんずり",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "まんずり"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "masturbation (female)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "千摺り"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "千摺り",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "千摺り",
+                    "reading": "せんずり"
+                },
+                {
+                    "word": "千擦り",
+                    "reading": "せんずり"
+                },
+                {
+                    "reading": "センズリ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "masturbation (male)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "まんずり"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "姫始め",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "姫始め",
+                    "reading": "ひめはじめ"
+                },
+                {
+                    "word": "姫初め",
+                    "reading": "ひめはじめ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "eating the first meal of soft rice (himeii) after the traditional hard rice of New Year (kowaii)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "強飯",
+                        "姫飯"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "first intercourse of the New Year"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "loss of virginity",
+                        "loss of maidenhead"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "不コ本",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "不コ本",
+                    "reading": "ポコペン"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "impossible",
+                        "futile"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Usually written using kana alone"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Chinese",
+                            "word": "“bugouben”"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "type of children's game"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Chinese person",
+                        "Chink"
+                    ],
+                    "parts_of_speech": [],
+                    "links": [],
+                    "tags": [
+                        "Derogatory",
+                        "Obsolete term"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "手コキ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "手コキ",
+                    "reading": "てコキ"
+                },
+                {
+                    "word": "手こき",
+                    "reading": "てこき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "hand job"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "扱く こく"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "口内性交",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "口内性交",
+                    "reading": "こうないせいこう"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "oral sex",
+                        "fellatio"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [
+                        "フェラ",
+                        "フェラチオ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "めく",
+            "is_common": true,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "めく"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to show signs of ...",
+                        "to have the appearance of ..."
+                    ],
+                    "parts_of_speech": [
+                        "Suffix",
+                        "Godan verb with ku ending"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to jerk off",
+                        "to masturbate"
+                    ],
+                    "parts_of_speech": [
+                        "Godan verb with ku ending"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Colloquialism"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "オナニー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "オナニー"
+                },
+                {
+                    "reading": "オナニ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "masturbation"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "German",
+                            "word": "“Onanie”"
+                        }
+                    ],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Masturbation"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Masturbation” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Masturbation?oldid=477984131"
+                        },
+                        {
+                            "text": "Read “オナニー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/オナニー?oldid=42754930"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Masturbation"
+            }
+        },
+        {
+            "slug": "足コキ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "足コキ",
+                    "reading": "あしコキ"
+                },
+                {
+                    "word": "足こき",
+                    "reading": "あしこき"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "footjob"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "扱く こく"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Footjob"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Footjob” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Footjob?oldid=495164709"
+                        },
+                        {
+                            "text": "Read “足コキ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/足コキ?oldid=42589923"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Footjob"
+            }
+        },
+        {
+            "slug": "ニガー",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ニガー"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "nigger"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Derogatory"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Nigger"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Nigger” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Nigger?oldid=495558309"
+                        },
+                        {
+                            "text": "Read “ニガー” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ニガー?oldid=41971690"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Nigger"
+            }
+        },
+        {
+            "slug": "ジャップ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ジャップ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Japanese person",
+                        "Jap"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Derogatory"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "Jap"
+                    ],
+                    "parts_of_speech": [
+                        "Wikipedia definition"
+                    ],
+                    "links": [
+                        {
+                            "text": "Read “Jap” on English Wikipedia",
+                            "url": "http://en.wikipedia.org/wiki/Jap?oldid=491127822"
+                        },
+                        {
+                            "text": "Read “ジャップ” on Japanese Wikipedia",
+                            "url": "http://ja.wikipedia.org/wiki/ジャップ?oldid=42151254"
+                        }
+                    ],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": [],
+                    "sentences": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": "http://dbpedia.org/resource/Jap"
+            }
+        },
+        {
+            "slug": "くたばれ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "くたばれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drop dead!",
+                        "go to hell!",
+                        "fuck you!",
+                        "shove it!"
+                    ],
+                    "parts_of_speech": [
+                        "Expression"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Kantou dialect"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "くたばる"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "くたばれ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "くたばれ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drop dead!",
+                        "go to hell!",
+                        "fuck you!",
+                        "shove it!"
+                    ],
+                    "parts_of_speech": [
+                        "Expression"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Kantou dialect"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "くたばる"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "ざけんなよ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ざけんなよ"
+                },
+                {
+                    "reading": "ざけんじゃねーよ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "fuck you!",
+                        "don't fuck with me!",
+                        "don't fuck around!",
+                        "don't be a screw off!"
+                    ],
+                    "parts_of_speech": [
+                        "Expression"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ふざけんなよ"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "チャンコロ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "チャンコロ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Chinese person",
+                        "Manchu person",
+                        "Chink"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Derogatory"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [
+                        {
+                            "language": "Chinese",
+                            "word": "“zhōnggúorén”"
+                        }
+                    ],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "ワンワンスタイル",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ワンワンスタイル"
+                },
+                {
+                    "reading": "ワンワン・スタイル"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "doggy style",
+                        "doggie style"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "ワンワン"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "穴だらけにする",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "穴だらけにする",
+                    "reading": "あなだらけにする"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "to fill with holes",
+                        "to riddle (e.g. with bullets)"
+                    ],
+                    "parts_of_speech": [
+                        "Expression",
+                        "Suru verb - irregular"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "屈曲位",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "word": "屈曲位",
+                    "reading": "くっきょくい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "Viennese oyster (sexual position)"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "くたばっちまえ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "くたばっちまえ"
+                },
+                {
+                    "reading": "くたばってしまえ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "drop dead, you bastard!",
+                        "fuck you!"
+                    ],
+                    "parts_of_speech": [
+                        "Expression"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Colloquialism",
+                        "Vulgar",
+                        "Kantou dialect"
+                    ],
+                    "restrictions": [],
+                    "see_also": [
+                        "くたばる"
+                    ],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "デカパイ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "デカパイ"
+                },
+                {
+                    "reading": "でかぱい"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "huge breasts"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Slang",
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "ワレメちゃん",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "ワレメちゃん"
+                },
+                {
+                    "reading": "われめちゃん"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "vulva",
+                        "slit",
+                        "cunt",
+                        "vagina",
+                        "twat"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        },
+        {
+            "slug": "おまんこ",
+            "is_common": false,
+            "tags": [],
+            "jlpt": [],
+            "japanese": [
+                {
+                    "reading": "おまんこ"
+                },
+                {
+                    "reading": "おめこ"
+                }
+            ],
+            "senses": [
+                {
+                    "english_definitions": [
+                        "pussy",
+                        "vulva",
+                        "vagina"
+                    ],
+                    "parts_of_speech": [
+                        "Noun"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                },
+                {
+                    "english_definitions": [
+                        "to have sex",
+                        "to fuck",
+                        "to screw"
+                    ],
+                    "parts_of_speech": [
+                        "Suru verb"
+                    ],
+                    "links": [],
+                    "tags": [
+                        "Vulgar",
+                        "Slang"
+                    ],
+                    "restrictions": [],
+                    "see_also": [],
+                    "antonyms": [],
+                    "source": [],
+                    "info": []
+                }
+            ],
+            "attribution": {
+                "jmdict": true,
+                "jmnedict": false,
+                "dbpedia": false
+            }
+        }
+    ]
+}
